@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: sans-serif;
+}
+ul{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 600px;
+    padding: 5px;
+}
+li{
+    list-style-type: none;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    margin-top: -65px;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+h1{
+    align-items: center;
+    display: flex;
+    color: chartreuse;
+    padding: 10px 0 2px 5px;
+}
+.main{
+    align-items: center;
+    background-color: black;
+}
+.ul{
+    margin: 10px;
+    padding: 4px;
+    align-items: center;
+}
